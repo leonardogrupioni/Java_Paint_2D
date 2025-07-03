@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FiguraPontos
+comment0.text=\r\n\ Contem\ metodos\ para\ desenhar\ figuras\ com\ ponto\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 20220815\r\n
+comment1.params=g\ x\ y\ nome\ diametro\ cor
+comment1.target=void\ desenharPonto(java.awt.Graphics,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Desenha\ um\ ponto\ na\ tela\r\n\ @param\ g\ biblioteca\ grafica\ para\ desenhar\ elementos\ gr\u00E1ficos\r\n\ @param\ x\ coordena\ x\ do\ ponto\r\n\ @param\ y\ coordenada\ y\ do\ ponto\r\n\ @param\ nome\ nome\ do\ ponto\r\n\ @param\ diametro\ diametro\ do\ ponto\r\n\ @param\ cor\ cor\ do\ ponto\r\n
+comment2.params=x\ y\ nome\ diametro\ cor
+comment2.target=void\ salvaPrimitivo(int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment3.params=
+comment3.target=void\ deletarTudo()
+comment4.params=g\ p
+comment4.target=void\ redesenharPonto(java.awt.Graphics,\ PontoGr)
+comment5.params=g\ qtde\ diametro
+comment5.target=void\ desenharPontos(java.awt.Graphics,\ int,\ int)
+comment5.text=\r\n\ Desenha\ variso\ pontos\ na\ tela\ com\ cores\ diferentes\r\n\ @param\ g\ biblioteca\ grafica\ para\ desenhar\ elementos\ gr\u00E1ficos\r\n\ @param\ qtde\ quantidade\ de\ pontos\r\n\ @param\ diametro\ diametro\ do\ pontos\r\n
+numComments=6

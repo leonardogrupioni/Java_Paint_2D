@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AlterandoFiguras
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ AlterandoFiguras\ aqui.\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @co-author\ Julio\ Arakaki\ \r\n\ @version\ 20231030\r\n
+comment1.params=g
+comment1.target=void\ setG(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ redesenhar()
+comment2.text=\r\n\ Redesenha\ os\ primitivos\ necessarios\r\n
+comment3.params=x\ y\ ctrlz
+comment3.target=java.lang.Object\ apagarElemento(int,\ int,\ java.lang.Object)
+comment3.text=\r\n\ Apaga\ elemento\ selecionado\ pelo\ usuario\r\n\r\n
+comment4.params=rg\ x\ y
+comment4.target=boolean\ verificarRetas(reta.RetaGr,\ int,\ int)
+comment4.text=\r\n\ verifica\ se\ o\ ponto\ selecionado\ pelo\ usuario\ esta\ na\ espessura\ do\ primitivo\r\n\r\n\ @param\ rg\ reta\ a\ ser\ verificada\r\n\ @return\ true\ ou\ false,\ significando\ que\ achou\ ou\ nao\ o\ elemento\r\n
+comment5.params=elementos\ ctrlz
+comment5.target=java.lang.Object\ removerFigura(java.util.ArrayList,\ java.lang.Object)
+comment5.text=\r\n\ M\u00E9todo\ removerFigura\r\n\r\n\ @ArrayList\ elementos\r\n\ @Object\ ctrlz\ \r\n\ @return\ ctrlz\r\n
+comment6.params=x\ y\ xq\ yq
+comment6.target=java.lang.Object\ transformacaoTriangulo(int,\ int,\ int,\ int)
+comment6.text=\r\n\ M\u00E9todo\ transformacaoTriangulo\r\n\r\n\ @int\ x\r\n\ @int\ y\r\n\ @int\ xq\r\n\ @int\ yq\r\n\ @return\ ctrlz\r\n
+comment7.params=tam
+comment7.target=boolean\ condicao(int)
+comment7.text=\r\n\ Verifica\ o\ tamanho\ do\ array\ de\ elementos\r\n\r\n\ @int\ tam\ tamanho\ do\ array\ elementos\r\n\ @return\ true\ ou\ false,\ significando\ se\ apresenta\ mais\ de\ um\ elemento\ naquele\ ponto\ selecionando\r\n
+comment8.params=
+comment8.target=void\ limpar()
+comment8.text=\r\n\ Limpa\ a\ tela,\ desenhando\ um\ ponto\ com\ as\ mesmas\ dimensoes\ da\ tela\r\n
+numComments=9

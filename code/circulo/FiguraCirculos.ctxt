@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FiguraCirculos
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ FiguraCirculos\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=g\ x1\ y1\ x2\ y2\ nome\ esp\ cor
+comment1.target=void\ desenharCirculo(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Desenha\ uma\ reta\ de\ acordo\ com\ os\ pontos\ p1\ e\ p2\r\n\r\n\ @param\ g\ biblioteca\ para\ desenhar\ o\ primitivo\ grafico\r\n\ @param\ x1\ coordenada\ x\ de\ p1\r\n\ @param\ y1\ coordenada\ y\ de\ p1\r\n\ @param\ x2\ coordenada\ x\ de\ p2\r\n\ @param\ y2\ coordenada\ y\ de\ p2\r\n\ @param\ nome\ nome\ da\ reta\r\n\ @param\ esp\ espessura\ da\ reta\r\n\ @param\ cor\ cor\ da\ reta\r\n
+comment2.params=x1\ y1\ x2\ y2\ nome\ esp\ cor
+comment2.target=void\ salvaPrimitivo(int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment3.params=g\ cg
+comment3.target=void\ redesenharCirculo(java.awt.Graphics,\ CirculoGr)
+comment4.params=
+comment4.target=void\ deletarTudo()
+comment5.params=g\ qtde\ esp
+comment5.target=void\ desenharCirculo(java.awt.Graphics,\ int,\ int)
+comment5.text=\r\n\ Desenha\ varias\ retas\ na\ area\ de\ desenho\r\n\r\n\ @param\ g\ biblioteca\ grafica\ para\ desenhar\ os\ primitivos\r\n\ @param\ qtde\ quantidade\ de\ retas\r\n\ @param\ esp\ espessura\ das\ retas\r\n
+numComments=6

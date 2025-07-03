@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Retangulo\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Retangulo(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constroi\ uma\ reta\ com\ valores\ (int)\ de\ x1,\ y1\ e\ x2,\ y2\r\n\r\n\ @param\ x1\ coordenada\ x\ de\ p1\r\n\ @param\ y1\ coordenada\ y\ de\ p1\r\n\ @param\ x2\ coordenada\ x\ de\ p2\r\n\ @param\ y2\ coordenada\ y\ de\ p2\r\n
+comment2.params=p
+comment2.target=void\ setP1(ponto.Ponto)
+comment2.text=\r\n\ Altera\ valor\ de\ p1\ de\ acordo\ com\ o\ parametro\r\n\r\n\ @param\ p\ valor\ de\ p1\ (externo)\r\n
+comment3.params=p
+comment3.target=void\ setP2(ponto.Ponto)
+comment3.text=\r\n\ Altera\ valor\ de\ p2\ de\ acordo\ com\ o\ parametro\r\n\r\n\ @param\ p\ valor\ de\ p2\ (externo)\r\n
+comment4.params=
+comment4.target=ponto.Ponto\ getP1()
+comment4.text=\r\n\ Retorna\ valor\ de\ p1\r\n\r\n\ @return\ valor\ de\ p1\r\n
+comment5.params=
+comment5.target=ponto.Ponto\ getP2()
+comment5.text=\r\n\ Retorna\ p2\r\n\r\n\ @return\ valor\ de\ p2\r\n
+numComments=6

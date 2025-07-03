@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Persistencia
+comment0.text=\r\n\ Interface\ Persistencia.\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @co-author\ Julio\ Arakaki\ \r\n\ @version\ 20231030\r\n
+comment1.params=nomeArquivo
+comment1.target=void\ JsonWriter(java.lang.String)
+comment2.params=nomeArquivo
+comment2.target=void\ JsonReader(java.lang.String)
+numComments=3

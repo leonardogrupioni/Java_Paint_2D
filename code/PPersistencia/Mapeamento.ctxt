@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Mapeamento
+comment0.text=\r\n\ Mapeamento\ calcula\ a\ coordenada\ normalizada\ e\ do\ dispositivo\ usando\ a\ largura\ e\ altura\ (l\ e\ h)\ definidas\ para\ a\ janela\ do\ programa.\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \ \r\n\ @version\ 20231030\r\n
+comment1.params=x
+comment1.target=double\ coordNormX(double)
+comment1.text=\r\n\ M\u00E9todo\ coordNormX\ calcula\ o\ valor\ normalizado\ da\ coordenada\ x\r\n
+comment2.params=y
+comment2.target=double\ coordNormY(double)
+comment2.text=\r\n\ M\u00E9todo\ coordNormY\ calcula\ o\ valor\ normalizado\ da\ coordenada\ y\r\n
+comment3.params=x
+comment3.target=double\ coordDispX(double)
+comment3.text=\r\n\ M\u00E9todo\ coordDispX\ calcula\ o\ valor\ de\ x\ para\ o\ dispositivo\ usando\ a\ coordenada\ normalizada\ x\r\n
+comment4.params=y
+comment4.target=double\ coordDispY(double)
+comment4.text=\r\n\ M\u00E9todo\ coordDispY\ calcula\ o\ valor\ de\ y\ para\ o\ dispositivo\ usando\ a\ coordenada\ normalizada\ y\r\n
+numComments=5

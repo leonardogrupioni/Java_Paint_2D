@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=EntradaDeDados
+comment0.text=\r\n\ EntradaDeDados\ \u00E9\ a\ classe\ com\ os\ met\u00F3dos\ para\ entrada\ de\ dados\ via\ JOptionPane.\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @version\ 20231030\r\n
+comment1.params=
+comment1.target=int\ menuTrans()
+comment1.text=\r\n\ M\u00E9todo\ menuTrans,\ menu\ das\ transformacoes\ geometricas\ do\ triangulo\r\n\r\n\ @return\ op\ -\ opcao\ selecionada\r\n
+comment2.params=
+comment2.target=double\ escolheSx()
+comment2.text=\r\n\ M\u00E9todo\ escolheSx\r\n\r\n\ @return\ sX\r\n
+comment3.params=
+comment3.target=double\ escolheSy()
+comment3.text=\r\n\ M\u00E9todo\ escolheSy\r\n\r\n\ @return\ sY\r\n
+comment4.params=
+comment4.target=double\ escolheAngulo()
+comment4.text=\r\n\ M\u00E9todo\ escolheAngulo\r\n\r\n\ @return\ ang\r\n
+comment5.params=
+comment5.target=java.lang.String\ nomeArquivo()
+comment5.text=\r\n\ M\u00E9todo\ nomeArquivo\r\n\r\n\ @return\ nomeArquivo\r\n
+comment6.params=_nomeArquivo
+comment6.target=boolean\ verificarNomeArquivo(java.lang.String)
+comment6.text=\r\n\ M\u00E9todo\ verificarNomeArquivo,\ verifica\ se\ o\ nome\ digiado\ apresenta\ caracteres\ especiais\:\ "\ \:\ ?\ /\ \\\ *\ >\ <\ |\r\n\r\n\ @param\ _nomeArquivo\ String,\ nome\ do\ arquivo\ digitado\ \r\n\ @return\ true\ ou\ false,\ retorna\ true\ se\ nao\ haver\ nenhum\ caractere\ especial,\ se\ nao\ retorna\ false\r\n
+numComments=7

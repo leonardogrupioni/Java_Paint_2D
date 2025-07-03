@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Json
+comment0.text=\r\n\ Classe\ Json\ que\ le\ e\ escreve\ arquivos\ json\ para\ persistencia.\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Leonardo\ Grupioni\ \r\n\ @co-author\ Julio\ Arakaki\ \r\n\ @version\ 20231030\r\n
+comment1.params=nomeArquivo
+comment1.target=void\ JsonWriter(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ JsonWriter\ escreve\ em\ um\ arquivo\ json\r\n
+comment2.params=nomeArquivo
+comment2.target=void\ JsonReader(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ JsonReader\ le\ um\ arquivo\ json\r\n
+numComments=3
